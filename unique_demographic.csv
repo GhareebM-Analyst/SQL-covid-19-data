@@ -1,0 +1,249 @@
+iso_code,continent,location,aged_65_older,aged_70_older,diabetes_prevalence,female_smokers,male_smokers,population
+AFG,Asia,Afghanistan,2.581,1.337,9.59,,,41128772
+OWID_AFR,,Africa,,,,,,1426736614
+ALB,Europe,Albania,13.188,8.643,10.08,7.1,51.2,2842318
+DZA,Africa,Algeria,6.211,3.857,6.73,0.7,30.4,44903228
+AND,Europe,Andorra,,,7.97,29.0,37.8,79843
+AGO,Africa,Angola,2.405,1.362,3.94,,,35588996
+AIA,North America,Anguilla,,,,,,15877
+ATG,North America,Antigua and Barbuda,6.933,4.631,13.17,,,93772
+ARG,South America,Argentina,11.198,7.441,5.5,16.2,27.7,45510324
+ARM,Asia,Armenia,11.232,7.571,7.11,1.5,52.1,2780472
+ABW,North America,Aruba,13.085,7.452,11.62,,,106459
+OWID_ASI,,Asia,,,,,,4721383370
+AUS,Oceania,Australia,15.504,10.129,5.07,13.0,16.5,26177410
+AUT,Europe,Austria,19.202,13.748,6.35,28.4,30.9,8939617
+AZE,Asia,Azerbaijan,6.018,3.871,7.11,0.3,42.5,10358078
+BHS,North America,Bahamas,8.996,5.2,13.17,3.1,20.4,409989
+BHR,Asia,Bahrain,2.372,1.387,16.52,5.8,37.6,1472237
+BGD,Asia,Bangladesh,5.098,3.262,8.38,1.0,44.7,171186368
+BRB,North America,Barbados,14.952,9.473,13.57,1.9,14.5,281646
+BLR,Europe,Belarus,14.799,9.788,5.18,10.5,46.1,9534956
+BEL,Europe,Belgium,18.571,12.849,4.29,25.1,31.4,11655923
+BLZ,North America,Belize,3.853,2.279,17.11,,,405285
+BEN,Africa,Benin,3.244,1.942,0.99,0.6,12.3,13352864
+BMU,North America,Bermuda,,,13.0,,,64207
+BTN,Asia,Bhutan,4.885,2.977,9.75,,,782457
+BOL,South America,Bolivia,6.704,4.393,6.89,,,12224114
+BES,North America,Bonaire Sint Eustatius and Saba,,,,,,27052
+BIH,Europe,Bosnia and Herzegovina,16.569,10.711,10.08,30.2,47.7,3233530
+BWA,Africa,Botswana,3.941,2.242,4.81,5.7,34.4,2630300
+BRA,South America,Brazil,8.552,5.06,8.11,10.1,17.9,215313504
+VGB,North America,British Virgin Islands,,,13.67,,,31332
+BRN,Asia,Brunei,4.591,2.382,12.79,2.0,30.9,449002
+BGR,Europe,Bulgaria,20.801,13.272,5.81,30.1,44.4,6781955
+BFA,Africa,Burkina Faso,2.409,1.358,2.42,1.6,23.9,22673764
+BDI,Africa,Burundi,2.562,1.504,6.05,,,12889583
+KHM,Asia,Cambodia,4.412,2.385,4.0,2.0,33.7,16767851
+CMR,Africa,Cameroon,3.165,1.919,7.2,,,27914542
+CAN,North America,Canada,16.984,10.797,7.37,12.0,16.6,38454328
+CPV,Africa,Cape Verde,4.46,3.437,2.42,2.1,16.5,593162
+CYM,North America,Cayman Islands,,,13.22,,,68722
+CAF,Africa,Central African Republic,3.655,2.251,6.1,,,5579148
+TCD,Africa,Chad,2.486,1.446,6.1,,,17723312
+CHL,South America,Chile,11.087,6.938,8.46,34.2,41.5,19603736
+CHN,Asia,China,10.641,5.929,9.74,1.9,48.4,1425887360
+COL,South America,Colombia,7.646,4.312,7.44,4.7,13.5,51874028
+COM,Africa,Comoros,2.963,1.726,11.88,4.4,23.6,836783
+COG,Africa,Congo,3.402,2.063,7.2,1.7,52.3,5970430
+COK,Oceania,Cook Islands,,,,,,17032
+CRI,North America,Costa Rica,9.468,5.694,8.78,6.4,17.4,5180836
+CIV,Africa,Cote d'Ivoire,2.933,1.582,2.42,,,28160548
+HRV,Europe,Croatia,19.724,13.053,5.59,34.3,39.9,4030361
+CUB,North America,Cuba,14.738,9.719,8.27,17.1,53.3,11212198
+CUW,North America,Curacao,16.367,10.068,11.62,,,191173
+CYP,Europe,Cyprus,13.416,8.563,9.24,19.6,52.7,896007
+CZE,Europe,Czechia,19.027,11.58,6.82,30.5,38.3,10493990
+COD,Africa,Democratic Republic of Congo,3.02,1.745,6.1,,,99010216
+DNK,Europe,Denmark,19.677,12.325,6.41,19.3,18.8,5882259
+DJI,Africa,Djibouti,4.213,2.38,6.05,1.7,24.5,1120851
+DMA,North America,Dominica,,,11.62,,,72758
+DOM,North America,Dominican Republic,6.981,4.419,8.2,8.5,19.1,11228821
+ECU,South America,Ecuador,7.104,4.458,5.55,2.0,12.3,18001002
+EGY,Africa,Egypt,5.159,2.891,17.31,0.2,50.1,110990096
+SLV,North America,El Salvador,8.273,5.417,8.87,2.5,18.8,6336393
+OWID_ENG,Europe,England,,,,,,56550000
+GNQ,Africa,Equatorial Guinea,2.846,1.752,7.78,,,1674916
+ERI,Africa,Eritrea,3.607,2.171,6.05,0.2,11.4,3684041
+EST,Europe,Estonia,19.452,13.491,4.02,24.5,39.3,1326064
+SWZ,Africa,Eswatini,3.163,1.845,3.94,1.7,16.5,1201680
+ETH,Africa,Ethiopia,3.526,2.063,7.47,0.4,8.5,123379928
+OWID_EUR,,Europe,,,,,,744807803
+OWID_EUN,,European Union,,,,,,450146793
+FRO,Europe,Faeroe Islands,,,,,,53117
+FLK,South America,Falkland Islands,,,,,,3801
+FJI,Oceania,Fiji,6.224,3.284,14.49,10.2,34.8,929769
+FIN,Europe,Finland,21.228,13.264,5.76,18.3,22.6,5540745
+FRA,Europe,France,19.718,13.079,4.77,30.1,35.6,67813000
+PYF,Oceania,French Polynesia,7.775,4.593,22.63,,,306292
+GAB,Africa,Gabon,4.45,2.976,7.2,,,2388997
+GMB,Africa,Gambia,2.339,1.417,1.91,0.7,31.2,2705995
+GEO,Asia,Georgia,14.864,10.244,7.11,5.3,55.5,3744385
+DEU,Europe,Germany,21.453,15.957,8.31,28.2,33.1,83369840
+GHA,Africa,Ghana,3.385,1.948,4.97,0.3,7.7,33475870
+GIB,Europe,Gibraltar,,,,,,32677
+GRC,Europe,Greece,20.396,14.524,4.55,35.3,52.0,10384972
+GRL,North America,Greenland,,,2.16,,,56494
+GRD,North America,Grenada,7.304,5.021,10.71,,,125459
+GUM,Oceania,Guam,9.551,5.493,21.52,,,171783
+GTM,North America,Guatemala,4.694,3.016,10.18,,,17843914
+GGY,Europe,Guernsey,,,,,,63329
+GIN,Africa,Guinea,3.135,1.733,2.42,,,13859349
+GNB,Africa,Guinea-Bissau,3.002,1.565,2.42,,,2105580
+GUY,South America,Guyana,5.305,2.837,11.62,,,808727
+HTI,North America,Haiti,4.8,2.954,6.65,2.9,23.1,11585003
+OWID_HIC,,High income,,,,,,1250514600
+HND,North America,Honduras,4.652,2.883,7.21,2.0,,10432858
+HKG,Asia,Hong Kong,16.303,10.158,8.33,,,7488863
+HUN,Europe,Hungary,18.577,11.976,7.55,26.8,34.8,9967304
+ISL,Europe,Iceland,14.431,9.207,5.31,14.3,15.2,372903
+IND,Asia,India,5.989,3.414,10.39,1.9,20.6,1417173120
+IDN,Asia,Indonesia,5.319,3.053,6.32,2.8,76.1,275501344
+OWID_INT,,International,,,,,,
+IRN,Asia,Iran,5.44,3.182,9.59,0.8,21.1,88550568
+IRQ,Asia,Iraq,3.186,1.957,8.83,,,44496124
+IRL,Europe,Ireland,13.928,8.678,3.28,23.0,25.7,5023108
+IMN,Europe,Isle of Man,,,,,,84534
+ISR,Asia,Israel,11.733,7.359,6.74,15.4,35.4,9449000
+ITA,Europe,Italy,23.021,16.24,4.78,19.8,27.8,59037472
+JAM,North America,Jamaica,9.684,6.39,11.28,5.3,28.6,2827382
+JPN,Asia,Japan,27.049,18.493,5.72,11.2,33.7,123951696
+JEY,Europe,Jersey,,,,,,110796
+JOR,Asia,Jordan,3.81,2.361,11.75,,,11285875
+KAZ,Asia,Kazakhstan,6.991,4.625,7.11,7.0,43.1,19397998
+KEN,Africa,Kenya,2.686,1.528,2.92,1.2,20.4,54027484
+KIR,Oceania,Kiribati,3.895,2.21,22.66,35.9,58.9,131237
+OWID_KOS,Europe,Kosovo,,,,,,1782115
+KWT,Asia,Kuwait,2.345,1.114,15.84,2.7,37.0,4268886
+KGZ,Asia,Kyrgyzstan,4.489,2.882,7.11,3.6,50.5,6630621
+LAO,Asia,Laos,4.029,2.322,4.0,7.3,51.2,7529477
+LVA,Europe,Latvia,19.754,14.136,4.91,25.6,51.0,1850654
+LBN,Asia,Lebanon,8.514,5.43,12.71,26.9,40.7,5489744
+LSO,Africa,Lesotho,4.506,2.647,3.94,0.4,53.9,2305826
+LBR,Africa,Liberia,3.057,1.756,2.42,1.5,18.1,5302690
+LBY,Africa,Libya,4.424,2.816,10.43,,,6812344
+LIE,Europe,Liechtenstein,,,7.77,,,39355
+LTU,Europe,Lithuania,19.002,13.778,3.67,21.3,38.0,2750058
+OWID_LIC,,Low income,,,,,,737604900
+OWID_LMC,,Lower middle income,,,,,,3432097300
+LUX,Europe,Luxembourg,14.312,9.842,4.42,20.9,26.0,647601
+MAC,Asia,Macao,9.798,4.991,,,,695180
+MDG,Africa,Madagascar,2.929,1.686,3.94,,,29611718
+MWI,Africa,Malawi,2.979,1.783,3.94,4.4,24.7,20405318
+MYS,Asia,Malaysia,6.293,3.407,16.74,1.0,42.4,33938216
+MDV,Asia,Maldives,4.12,2.875,9.19,2.1,55.0,523798
+MLI,Africa,Mali,2.519,1.486,2.42,1.6,23.0,22593598
+MLT,Europe,Malta,19.426,11.324,8.83,20.9,30.2,533293
+MHL,Oceania,Marshall Islands,,,30.53,,,41593
+MRT,Africa,Mauritania,3.138,1.792,2.42,,,4736146
+MUS,Africa,Mauritius,10.945,5.884,22.02,3.2,40.7,1299478
+MEX,North America,Mexico,6.857,4.321,13.06,6.9,21.4,127504120
+FSM,Oceania,Micronesia (country),4.81,2.392,12.02,,,114178
+MDA,Europe,Moldova,10.864,6.955,5.72,5.9,44.6,3272993
+MCO,Europe,Monaco,,,5.46,,,36491
+MNG,Asia,Mongolia,4.031,2.421,4.82,5.5,46.5,3398373
+MNE,Europe,Montenegro,14.762,9.395,10.08,44.0,47.9,627082
+MSR,North America,Montserrat,,,,,,4413
+MAR,Africa,Morocco,6.769,4.209,7.14,0.8,47.1,37457976
+MOZ,Africa,Mozambique,3.158,1.87,3.3,5.1,29.1,32969520
+MMR,Asia,Myanmar,5.732,3.12,4.61,6.3,35.2,54179312
+NAM,Africa,Namibia,3.552,2.085,3.94,9.7,34.2,2567024
+NRU,Oceania,Nauru,,,24.07,43.0,36.9,12691
+NPL,Asia,Nepal,5.809,3.212,7.26,9.5,37.8,30547586
+NLD,Europe,Netherlands,18.779,11.881,5.29,24.4,27.3,17564020
+NCL,Oceania,New Caledonia,9.954,6.489,23.36,,,289959
+NZL,Oceania,New Zealand,15.322,9.72,8.08,14.8,17.2,5185289
+NIC,North America,Nicaragua,5.445,3.519,11.47,,,6948395
+NER,Africa,Niger,2.553,1.378,2.42,0.1,15.4,26207982
+NGA,Africa,Nigeria,2.751,1.447,2.42,0.6,10.8,218541216
+NIU,Oceania,Niue,,,,,,1952
+OWID_NAM,,North America,,,,,,600323657
+PRK,Asia,North Korea,9.491,6.139,4.0,,,26069416
+MKD,Europe,North Macedonia,13.26,8.16,10.08,,,2093606
+OWID_CYN,Asia,Northern Cyprus,,,,,,382836
+OWID_NIR,Europe,Northern Ireland,,,,,,1896000
+MNP,Oceania,Northern Mariana Islands,,,,,,49574
+NOR,Europe,Norway,16.821,10.813,5.31,19.6,20.7,5434324
+OWID_OCE,,Oceania,,,,,,45038860
+OMN,Asia,Oman,2.355,1.53,12.61,0.5,15.6,4576300
+PAK,Asia,Pakistan,4.495,2.78,8.35,2.8,36.7,235824864
+PLW,Oceania,Palau,,,15.89,7.7,22.7,18084
+PSE,Asia,Palestine,3.043,1.726,10.59,,,5250076
+PAN,North America,Panama,7.918,5.03,8.33,2.4,9.9,4408582
+PNG,Oceania,Papua New Guinea,3.808,2.142,17.65,23.5,48.8,10142625
+PRY,South America,Paraguay,6.378,3.833,8.27,5.0,21.6,6780745
+PER,South America,Peru,7.151,4.455,5.95,4.8,,34049588
+PHL,Asia,Philippines,4.803,2.661,7.07,7.8,40.8,115559008
+PCN,Oceania,Pitcairn,,,,,,47
+POL,Europe,Poland,16.763,10.202,5.91,23.3,33.1,39857144
+PRT,Europe,Portugal,21.502,14.924,9.85,16.3,30.0,10270857
+PRI,North America,Puerto Rico,15.168,9.829,12.9,,,3252412
+QAT,Asia,Qatar,1.307,0.617,16.52,0.8,26.9,2695131
+ROU,Europe,Romania,17.85,11.69,9.74,22.9,37.1,19659270
+RUS,Europe,Russia,14.178,9.393,6.18,23.4,58.3,144713312
+RWA,Africa,Rwanda,2.974,1.642,4.28,4.7,21.0,13776702
+SHN,Africa,Saint Helena,,,,,,5401
+KNA,North America,Saint Kitts and Nevis,,,12.84,,,47681
+LCA,North America,Saint Lucia,9.721,6.405,11.62,,,179872
+SPM,North America,Saint Pierre and Miquelon,,,,,,5885
+VCT,North America,Saint Vincent and the Grenadines,7.724,4.832,11.62,,,103959
+WSM,Oceania,Samoa,5.606,3.564,9.21,16.7,38.1,222390
+SMR,Europe,San Marino,,,5.64,,,33690
+STP,Africa,Sao Tome and Principe,2.886,2.162,2.42,,,227393
+SAU,Asia,Saudi Arabia,3.295,1.845,17.72,1.8,25.4,36408824
+OWID_SCT,Europe,Scotland,,,,,,5466000
+SEN,Africa,Senegal,3.008,1.796,2.42,0.4,16.6,17316452
+SRB,Europe,Serbia,17.366,,10.08,37.7,40.2,6871547
+SYC,Africa,Seychelles,8.606,5.586,10.55,7.1,35.7,107135
+SLE,Africa,Sierra Leone,2.538,1.285,2.42,8.8,41.3,8605723
+SGP,Asia,Singapore,12.922,7.049,10.99,5.2,28.3,5637022
+SXM,North America,Sint Maarten (Dutch part),,,,,,44192
+SVK,Europe,Slovakia,15.07,9.167,7.29,23.1,37.7,5643455
+SVN,Europe,Slovenia,19.062,12.93,7.25,20.1,25.0,2119843
+SLB,Oceania,Solomon Islands,3.507,2.043,18.68,,,724272
+SOM,Africa,Somalia,2.731,1.496,6.05,,,17597508
+ZAF,Africa,South Africa,5.344,3.053,5.52,8.1,33.2,59893884
+OWID_SAM,,South America,,,,,,436816679
+KOR,Asia,South Korea,13.914,8.622,6.8,6.2,40.9,51815808
+SSD,Africa,South Sudan,3.441,2.032,10.43,,,10913172
+ESP,Europe,Spain,19.436,13.799,7.17,27.4,31.4,47558632
+LKA,Asia,Sri Lanka,10.069,5.331,10.68,0.3,27.0,21832150
+SDN,Africa,Sudan,3.548,2.034,15.67,,,46874200
+SUR,South America,Suriname,6.933,4.229,12.54,7.4,42.9,618046
+SWE,Europe,Sweden,19.985,13.433,4.79,18.8,18.9,10549349
+CHE,Europe,Switzerland,18.436,12.644,5.59,22.6,28.9,8740471
+SYR,Asia,Syria,,2.577,,,,22125242
+TWN,Asia,Taiwan,,8.353,,,,23893396
+TJK,Asia,Tajikistan,3.466,2.155,7.11,,,9952789
+TZA,Africa,Tanzania,3.108,1.874,5.75,3.3,26.7,65497752
+THA,Asia,Thailand,11.373,6.89,7.04,1.9,38.8,71697024
+TLS,Asia,Timor,3.556,1.897,6.86,6.3,78.1,1341298
+TGO,Africa,Togo,2.839,1.525,6.15,0.9,14.2,8848700
+TKL,Oceania,Tokelau,,,,,,1893
+TON,Oceania,Tonga,5.82,4.032,15.42,11.8,44.4,106867
+TTO,North America,Trinidad and Tobago,10.014,5.819,10.97,,,1531043
+TUN,Africa,Tunisia,8.001,5.075,8.52,1.1,65.8,12356116
+TUR,Asia,Turkey,8.153,5.061,12.13,14.1,41.1,85341248
+TKM,Asia,Turkmenistan,4.277,2.541,7.11,,,6430777
+TCA,North America,Turks and Caicos Islands,,,,,,45726
+TUV,Oceania,Tuvalu,,,27.25,,,11335
+UGA,Africa,Uganda,2.168,1.308,2.5,3.4,16.7,47249588
+UKR,Europe,Ukraine,16.462,11.133,7.11,13.5,47.4,39701744
+ARE,Asia,United Arab Emirates,1.144,0.526,17.26,1.2,37.4,9441138
+GBR,Europe,United Kingdom,18.517,12.527,4.28,20.0,24.7,67508936
+USA,North America,United States,15.413,9.732,10.79,19.1,24.6,338289856
+VIR,North America,United States Virgin Islands,18.601,10.799,12.26,,,99479
+OWID_UMC,,Upper middle income,,,,,,2525921300
+URY,South America,Uruguay,14.655,10.361,6.93,14.0,19.9,3422796
+UZB,Asia,Uzbekistan,4.469,2.873,7.57,1.3,24.7,34627648
+VUT,Oceania,Vanuatu,4.394,2.62,12.02,2.8,34.5,326744
+VAT,Europe,Vatican,,,,,,808
+VEN,South America,Venezuela,6.614,3.915,6.47,,,28301700
+VNM,Asia,Vietnam,7.15,4.718,6.0,1.0,45.9,98186856
+OWID_WLS,Europe,Wales,,,,,,3170000
+WLF,Oceania,Wallis and Futuna,,,,,,11596
+ESH,Africa,Western Sahara,,1.38,,,,576005
+OWID_WRL,,World,8.696,5.355,8.51,6.434,34.635,7975105024
+YEM,Asia,Yemen,2.922,1.583,5.35,7.6,29.2,33696612
+ZMB,Africa,Zambia,2.48,1.542,3.94,3.1,24.7,20017670
+ZWE,Africa,Zimbabwe,2.822,1.882,1.82,1.6,30.7,16320539
